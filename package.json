@@ -1,0 +1,23 @@
+{
+  "name": "food_delivery_java",
+  "version": "1.0.0",
+  "description": "Food Delivery",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crimsontrigger/food_delivery_java.git"
+  },
+  "author": "Chenni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crimsontrigger/food_delivery_java/issues"
+  },
+  "homepage": "https://github.com/crimsontrigger/food_delivery_java#readme"
+}
